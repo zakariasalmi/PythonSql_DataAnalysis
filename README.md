@@ -25,7 +25,7 @@ We start by using the **Kaggle API** to fetch the dataset, then perform **data c
 
 ---
 
-## ❓ Sample Questions Answered
+## ❓ Questions Answered
 
 - top 10 highest revenue generating products ?
 - top 5 highest prducts in each region ?
