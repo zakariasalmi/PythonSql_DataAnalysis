@@ -4,7 +4,7 @@
 
 This is an **end-to-end data analytics project** using **Python** and **SQL Server**, demonstrating a complete data pipeline from **data collection** to **insight generation**.
 
-We start by using the **Kaggle API** to fetch the dataset, then perform **data cleaning and transformation** using `pandas`. The cleaned data is loaded into **SQL Server**, where we use **SQL queries** to explore the data and answer insightful business questions.
+I start by using the **Kaggle API** to fetch the dataset, then perform **data cleaning and transformation** using `pandas`. The cleaned data is loaded into **SQL Server**, where i use **SQL queries** to explore the data and answer insightful business questions.
 
 ## 🛠️ Technologies Used
 
