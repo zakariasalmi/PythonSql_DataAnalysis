@@ -32,7 +32,12 @@ I start by using the **Kaggle API** to fetch the dataset, then perform **data cl
 - month over month growth comparison for 2022 and 2023 sales eg: jan 2022 vs jan 2023 ?
 - for each category which month had highest sales ?
 - which sub category had highest growth by profit in 2023 compare to 2022 ?
-- 
+- category with the best average profit margin in 2023?
+- Sales growth by region in 2023
+- Tendance Analysis (3 Months with the most orders in 2023)
+- Analysis of anomalies or inefficiencies (Products with high sales but low profitability)
+- Orders with financial loss (profit<0)
+- Predictive analysis (via trends) : Naive sales forecast for January 2024 based on the average of the last three months of 2023 .
 
 ---
 
